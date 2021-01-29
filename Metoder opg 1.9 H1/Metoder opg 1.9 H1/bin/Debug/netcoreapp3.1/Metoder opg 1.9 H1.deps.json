@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Metoder opg 1.9 H1/1.0.0": {
+        "runtime": {
+          "Metoder opg 1.9 H1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Metoder opg 1.9 H1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.exe
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.deps.json
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.runtimeconfig.json
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.runtimeconfig.dev.json
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.dll
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\bin\Debug\netcoreapp3.1\Metoder opg 1.9 H1.pdb
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.csprojAssemblyReference.cache
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.AssemblyInfoInputs.cache
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.AssemblyInfo.cs
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.csproj.CoreCompileInputs.cache
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.dll
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.pdb
+C:\Users\mari47jg\source\repos\Metoder opg 1.9 H1\Metoder opg 1.9 H1\obj\Debug\netcoreapp3.1\Metoder opg 1.9 H1.genruntimeconfig.cache
